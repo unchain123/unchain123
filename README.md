@@ -1,11 +1,14 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=iOS개발자오경식입니다&fontAlign=60&fontAlignY=40&color=gradient)
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=unchain123&count_private=true"/>
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=unchain123&show_icons=true&theme=radical">
+
 
 <div align="center"> 
- 
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unchain123&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+	
+	
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unchain123&layout=compact">
+</a>
   
 <div align="left">
   
